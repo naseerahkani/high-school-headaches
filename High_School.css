@@ -1,0 +1,752 @@
+.mediaViewInfo {
+	--web-view-name: freshman_1;
+	--web-view-id: freshman_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: freshman_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#freshman_1 {
+	position: absolute;
+	width: 2740px;
+	height: 2255px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: freshman_1;
+	--web-view-id: freshman_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_134 {
+	fill: rgba(215,118,103,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_134 {
+	overflow: visible;
+	position: absolute;
+	width: 2777.047px;
+	height: 2328.819px;
+	left: 0px;
+	top: -39.018px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_73 {
+	position: absolute;
+	width: 2649.762px;
+	height: 1869.809px;
+	left: 49.41px;
+	top: 91.595px;
+	overflow: visible;
+}
+#Rectangle_18 {
+	fill: rgba(222,220,220,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 2588.73px;
+	height: 1869.809px;
+	left: 61.031px;
+	top: 0px;
+}
+#Path_168 {
+	fill: rgba(241,241,241,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 25px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_168 {
+	overflow: visible;
+	position: absolute;
+	width: 2593.871px;
+	height: 1756.674px;
+	left: -0.002px;
+	top: 56.567px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_54 {
+	position: absolute;
+	width: 126px;
+	height: 101px;
+	left: 55.76px;
+	top: 115px;
+	overflow: visible;
+}
+#Rectangle_21 {
+	fill: rgba(241,241,241,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+}
+#Group_53 {
+	position: absolute;
+	width: 66.159px;
+	height: 80.259px;
+	left: 29.92px;
+	top: 10.269px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 70.018px;
+	height: 83.439px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 70.018px;
+	height: 83.439px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_22 {
+	fill: rgba(215,118,103,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 546.648px;
+	height: 118.793px;
+	left: 191.65px;
+	top: 115.192px;
+}
+#Path_170 {
+	fill: rgba(199,187,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_170 {
+	overflow: visible;
+	position: absolute;
+	width: 529.676px;
+	height: 100.793px;
+	left: 1870.16px;
+	top: 115.192px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_24 {
+	fill: rgba(87,146,172,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 528.648px;
+	height: 100.793px;
+	left: 1310.656px;
+	top: 115.192px;
+}
+#Rectangle_25 {
+	fill: rgba(82,120,98,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 528.648px;
+	height: 100.793px;
+	left: 751.154px;
+	top: 115.192px;
+}
+#Rectangle_20 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 7px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 2571.244px;
+	height: 168.674px;
+	left: 2.406px;
+	top: 81.251px;
+}
+#Group_55 {
+	position: absolute;
+	width: 128px;
+	height: 26px;
+	left: 2431.76px;
+	top: 149px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: rgba(240,61,61,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2 {
+	fill: rgba(67,147,51,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	height: 26px;
+	left: 51px;
+	top: 0px;
+}
+#Ellipse_3 {
+	fill: rgba(227,223,120,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	height: 26px;
+	left: 102px;
+	top: 0px;
+}
+#Group_64 {
+	position: absolute;
+	width: 2274.009px;
+	height: 1120.034px;
+	left: 159.969px;
+	top: 457.078px;
+	overflow: visible;
+}
+#Rectangle_29 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-dasharray: 4 0.5;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 2274.01px;
+	height: 1120.034px;
+	left: 0px;
+	top: 0px;
+}
+#Group_62 {
+	position: absolute;
+	width: 320.891px;
+	height: 64.795px;
+	left: 1830.727px;
+	top: 106.964px;
+	overflow: visible;
+}
+#Ellipse_1_bh {
+	fill: rgba(240,61,61,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-dasharray: 4 0.5;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bh {
+	position: absolute;
+	overflow: visible;
+	width: 64.795px;
+	height: 64.795px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_bi {
+	fill: rgba(67,147,51,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-dasharray: 4 0.5;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_bi {
+	position: absolute;
+	overflow: visible;
+	width: 61.709px;
+	height: 64.795px;
+	left: 129.59px;
+	top: 0px;
+}
+#Ellipse_3_bj {
+	fill: rgba(227,223,120,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-dasharray: 4 0.5;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_bj {
+	position: absolute;
+	overflow: visible;
+	width: 64.795px;
+	height: 64.795px;
+	left: 256.096px;
+	top: 0px;
+}
+#Explore__take_advantage_of_new {
+	left: 64.445px;
+	top: 171.759px;
+	position: absolute;
+	overflow: visible;
+	width: 2164px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ink Free;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#Group_71 {
+	position: absolute;
+	width: 104.907px;
+	height: 129.591px;
+	left: 2450.805px;
+	top: 870.109px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+}
+#Group_69 {
+	position: absolute;
+	width: 69.938px;
+	height: 129.591px;
+	left: 34.969px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_169 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_169 {
+	overflow: visible;
+	position: absolute;
+	width: 73.479px;
+	height: 76.456px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 80.219px;
+	height: 76.747px;
+	left: 0px;
+	top: 63.767px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_70 {
+	position: absolute;
+	width: 69.938px;
+	height: 129.591px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_169_bq {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_169_bq {
+	overflow: visible;
+	position: absolute;
+	width: 73.479px;
+	height: 76.456px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4_br {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_br {
+	overflow: visible;
+	position: absolute;
+	width: 80.219px;
+	height: 76.747px;
+	left: 0px;
+	top: 63.767px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_72 {
+	transform: translate(-84.239px, -274px) matrix(1,0,0,1,110.7818,1143.2039) rotate(181deg);
+	transform-origin: center;
+	position: absolute;
+	width: 104.907px;
+	height: 129.591px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+}
+#Group_69_bt {
+	position: absolute;
+	width: 69.938px;
+	height: 129.591px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_169_bu {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_169_bu {
+	overflow: visible;
+	position: absolute;
+	width: 74.803px;
+	height: 77.727px;
+	left: 7.354px;
+	top: 63.563px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4_bv {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_bv {
+	overflow: visible;
+	position: absolute;
+	width: 81.545px;
+	height: 78.135px;
+	left: 1.111px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_70_bw {
+	position: absolute;
+	width: 69.938px;
+	height: 129.591px;
+	left: 34.963px;
+	top: 0.61px;
+	overflow: visible;
+}
+#Path_169_bx {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_169_bx {
+	overflow: visible;
+	position: absolute;
+	width: 74.803px;
+	height: 77.727px;
+	left: 7.354px;
+	top: 63.563px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4_by {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_by {
+	overflow: visible;
+	position: absolute;
+	width: 81.545px;
+	height: 78.135px;
+	left: 1.113px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#freshmancom {
+	left: 225.59px;
+	top: 120.405px;
+	position: absolute;
+	overflow: visible;
+	width: 436px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ink Free;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(255,255,255,1);
+}
+#seniorcom {
+	left: 1977.59px;
+	top: 119.405px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Ink Free;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(255,255,255,1);
+}
+#juniorcom {
+	left: 1416.59px;
+	top: 123.405px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Ink Free;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(255,255,255,1);
+}
+#sophomorecom {
+	left: 782.59px;
+	top: 123.405px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Ink Free;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(255,255,255,1);
+}
+#Group_74 {
+	position: absolute;
+	width: 667px;
+	height: 202px;
+	left: 961px;
+	top: 2013px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+}
+#Rectangle_31 {
+	fill: rgba(222,220,220,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 634px;
+	height: 202px;
+	left: 33px;
+	top: 0px;
+}
+#Rectangle_30 {
+	fill: rgba(241,241,241,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 634px;
+	height: 141px;
+	left: 0px;
+	top: 30px;
+}
+#home {
+	left: 211px;
+	top: 45px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ink Free;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(112,112,112,1);
+}
